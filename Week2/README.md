@@ -1,5 +1,5 @@
 
-# WEEK-2 : Backend API 🚀
+# WEEK 2-Backend API 🚀
 
 This is a simple Backend API built using Node.js and Express.js.  
 It demonstrates how to create a server, handle routes, and manage GET and POST requests with JSON data.
