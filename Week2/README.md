@@ -1,7 +1,7 @@
 
 # WEEK 2-Backend API 🚀
 
-This is a simple Backend API built using Node.js and Express.js.  
+- This is a simple Backend API built using Node.js and Express.js.  
 It demonstrates how to create a server, handle routes, and manage GET and POST requests with JSON data.
 
 ---
@@ -37,5 +37,5 @@ To learn backend development fundamentals including:
 
 ## 📌 How to Run
 
-npm install
-node server.js
+- npm install
+- node server.js
