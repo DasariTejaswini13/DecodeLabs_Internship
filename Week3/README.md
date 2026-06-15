@@ -5,12 +5,12 @@
 A simple Full Stack CRUD (Create, Read, Update, Delete) web application built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript. This project demonstrates real-world frontend and backend integration using REST APIs and performs real-time database operations with dynamic UI updates.
 
 ### 🚀 Features
-➕ Add new users with Name and Email
-📄 View all users stored in MySQL database
-❌ Delete users from database
-🔄 Refresh and reload data dynamically
-⚡ Real-time updates without page reload
-🎨 Clean and responsive UI
+- ➕ Add new users with Name and Email
+- 📄 View all users stored in MySQL database
+- ❌ Delete users from database
+- 🔄 Refresh and reload data dynamically
+- ⚡ Real-time updates without page reload
+- 🎨 Clean and responsive UI
 
 ### 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript
