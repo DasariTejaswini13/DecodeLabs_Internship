@@ -1,4 +1,4 @@
-### WEEK2 - Full Stack CRUD Application ###
+### WEEK3 - Full Stack CRUD Application ###
 
 
 ### 📌 Project Overview
