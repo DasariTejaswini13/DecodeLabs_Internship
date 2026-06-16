@@ -1,4 +1,4 @@
-### WEEK 3 - Full Stack CRUD Application ###
+### WEEK 3 Project - Full Stack CRUD Application ###
 
 
 ### 📌 Project Overview
